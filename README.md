@@ -1,2 +1,0 @@
-# instagramBot
-# webDevCoursePractice
